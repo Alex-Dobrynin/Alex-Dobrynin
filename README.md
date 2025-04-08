@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Oleksandr Dobrynin profile views](https://u8views.com/api/v1/github/profiles/23138430/views/day-week-month-total-count.svg)](https://u8views.com/github/Alex-Dobrynin)
+
 <!--
 **Alex-Dobrynin/Alex-Dobrynin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
